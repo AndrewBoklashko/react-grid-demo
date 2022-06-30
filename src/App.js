@@ -1,9 +1,9 @@
 import './App.css';
-import DataTableCrudDemo from './demo/DataTableCrudDemo';
+import DataTableFilterDemo from './demo/DataTableFilterDemo';
 
 function App() {
   return (
-    <DataTableCrudDemo />
+    <DataTableFilterDemo />
   );
 }
 
